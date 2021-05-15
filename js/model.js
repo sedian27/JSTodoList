@@ -6,7 +6,7 @@ export default class Model {
       this.todos = [
         {
           id: 0,
-          title: "Lear JS",
+          title: "Learn JS",
           description: "Watch JS Tutorials",
           completed: false,
         },
